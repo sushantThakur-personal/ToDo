@@ -1,0 +1,12 @@
+.column.past{
+    background-color: rgba(223, 108, 108, 0.726);
+}
+.column.present{
+    background-color: rgba(113, 199, 113, 0.705);
+}
+.column.future{
+    background-color: rgba(128, 120, 120, 0.527);
+}
+.body{
+    margin-top: 10px;
+}
